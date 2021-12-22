@@ -131,11 +131,20 @@ android {
     compileSdkVersion rootProject.ext.compileSdkVersion
 
     defaultConfig {
-        applicationId "com.reactnativeboilerplate"
+        applicationId "com.reactnativeinstantboilerplate"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
         versionName "1.0"
+    }
+    flavorDimensions "experience"
+    productFlavors {
+      instant {
+        versionCode 1
+      }
+      installed {
+        versionCode 2
+      }
     }
     splits {
         abi {

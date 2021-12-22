@@ -24,6 +24,8 @@ DerivedData
 # Android/IntelliJ
 #
 build/
+bundletool-all-1.8.2.jar
+instant.apks
 .idea
 .gradle
 local.properties
