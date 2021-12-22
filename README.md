@@ -7,6 +7,6 @@ _______________________________________________________
 
 ```npx react-native-rename <newname>```
 
-in /android and /ios replace all instance of ```reactnativeboilerplate``` with ```<newname>```
+in ```/android``` and ```/ios``` replace all instance of ```reactnativeboilerplate``` with ```<newname>```
 
 note that ```<newname>``` must be lowercase without any special character
