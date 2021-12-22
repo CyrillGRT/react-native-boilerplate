@@ -5,4 +5,4 @@ _______________________________________________________
 
 npm install / yarn install
 
-npx react-native-rename <newname>
+npx react-native-rename \<newname\>
