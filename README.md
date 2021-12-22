@@ -1,8 +1,6 @@
 # react-native-boilerplate
-React Native blank app with an eslint config
+React Native to Android Instant App
 
 _______________________________________________________
 
-npm install / yarn install
-
-npx react-native-rename \<newname\>
+Follow this tutorial from the Step 3 : https://docs.google.com/document/d/1eQZRRj70UgcLrUwrDg00bHN7R4jOH1ji_JhiXonbahQ/edit
